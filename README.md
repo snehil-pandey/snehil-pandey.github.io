@@ -1,4 +1,3 @@
 # MAIN BRANCH
-This is my home page.  
-  
->Work under progress
+>[Root](https://uthando993.github.io)  
+>>[Terminal](https://uthando993.github.io/Terminal)
