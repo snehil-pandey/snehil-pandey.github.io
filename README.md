@@ -2,7 +2,8 @@
   <img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/76873947?v=4h=300&w=300&fit=cover&mask=circle&maxage=7d" alt="3D-avatar" width="200px"/> 
 </div>
 
-### <p align="center">Hey There👋<br>I'm Snehil Pandey.<br>A full-stack developer.</p>
+<h4><p align="center">Hey There👋<br>I'm Snehil Pandey.<br>A full-stack developer.</p></h4>
+
 *<p align="center">Currently Dormant in field of Development trying to gain more XP by reducing lines of code</p>*
 
 ## GitHub Profile Stats:
