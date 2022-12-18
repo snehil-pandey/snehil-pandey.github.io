@@ -4,7 +4,7 @@
 
 <h4><p align="center">Hey There👋<br>I'm Snehil Pandey.<br>A full-stack developer.</p></h4>
 
-*<p align="center">Currently Dormant in field of Development trying to gain more XP by reducing lines of code</p>*
+<i><p align="center">Currently Dormant in field of Development trying to gain more XP by reducing lines of code</p></i>
 
 ## GitHub Profile Stats:
 [![Profile Views](https://komarev.com/ghpvc/?username=Uthando993&color=0e75b6&style=for-the-badge)](https://#) 
