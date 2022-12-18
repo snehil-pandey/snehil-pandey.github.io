@@ -10,9 +10,9 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=Uthando993&color=0e75b6&style=for-the-badge)](https://#) 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Uthando993&show_icons=true&locale=en&theme=github_dark" alt="Stats"/><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Uthando993&theme=dark" alt="Streak"/> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Uthando993&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="activity"/><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=Uthando993&show_icons=true&locale=en&theme=github_light" alt="Stats"/><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Uthando993&theme=light" alt="Streak"/> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Uthando993&show_icons=true&locale=en&layout=compact&theme=github_light" alt="activity"/><br>
 </div><br>
   
 ## My Coding Details:
@@ -48,8 +48,8 @@
 <br>
 
 ## Featured Repository:
-[![Terminal](https://github-readme-stats.vercel.app/api/pin/?username=Uthando993&repo=Terminal&show_icons=true&theme=github_dark)](https://github.com/Uthando993/Terminal)<br>
-[![360Image](https://github-readme-stats.vercel.app/api/pin/?username=Uthando993&repo=360Image&show_icons=true&theme=github_dark)](https://github.com/Uthando993/360Image)
+[![Terminal](https://github-readme-stats.vercel.app/api/pin/?username=Uthando993&repo=Terminal&show_icons=true&theme=github_light)](https://github.com/Uthando993/Terminal)<br>
+[![360Image](https://github-readme-stats.vercel.app/api/pin/?username=Uthando993&repo=360Image&show_icons=true&theme=github_light)](https://github.com/Uthando993/360Image)
 
 ## Connect with me:
 [![Medium](https://img.shields.io/badge/-Medium-212121?logo=medium&logoWidth=20&logoColor=white&style=for-the-badge)](https://s-pandey.medium.com/)
