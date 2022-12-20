@@ -1,7 +1,9 @@
-name: Snehil Pandey
+author:
+  name: Snehil Pandey
+  contact: snehil@googlegroups.com
 avatar: https://avatars.githubusercontent.com/u/76873947?v=4
 theme: minima
 plugins:
   - jekyll-feed
 title: "Snehil's Home Page"
-footer: ""
+
