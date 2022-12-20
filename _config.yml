@@ -4,3 +4,4 @@ theme: minima
 plugins:
   - jekyll-feed
 title: "Snehil's Home Page"
+footer: ""
