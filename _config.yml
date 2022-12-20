@@ -5,4 +5,7 @@ avatar: https://avatars.githubusercontent.com/u/76873947?v=4
 
 title: Snehil's Home Page
 description: This is my Home Page
+theme: minima
+plugins:
+  - jekyll-feed
 
