@@ -1,3 +1,6 @@
 name: Snehil Pandey
-avatar: https://avatars.githubusercontent.com/u/76873947?v=4
-remote_theme: jekyll/minima
+title: "Snehil's Home Page"
+theme: minima
+
+plugins:
+  - jekyll-feed
