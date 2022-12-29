@@ -56,10 +56,10 @@
 <br>
 
 ## Featured Repositories
-[![Terminal](https://github-readme-stats.vercel.app/api/pin/?username=snehil-pandey&repo=Terminal&show_icons=true&theme=github_dark)](https://github.com/Uthando993/Terminal)<br>
-[![360Image](https://github-readme-stats.vercel.app/api/pin/?username=snehil-pandey&repo=360Image&show_icons=true&theme=github_dark)](https://github.com/Uthando993/360Image)  
-[![color-detector](https://github-readme-stats.vercel.app/api/pin/?username=snehil-pandey&repo=color-detector&theme=github_dark&show_icons=true)](https://github.com/Uthando993/color-detector)  
-[![sample-projects](https://github-readme-stats.vercel.app/api/pin/?username=Uthando993&repo=sample-projects&theme=github_dark&show_icons=true)](https://github.com/Uthando993/sample-projects) 
+[![Terminal](https://github-readme-stats.vercel.app/api/pin/?username=snehil-pandey&repo=Terminal&show_icons=true&theme=github_dark)](https://github.com/snehil-pandey/Terminal)<br>
+[![360Image](https://github-readme-stats.vercel.app/api/pin/?username=snehil-pandey&repo=360Image&show_icons=true&theme=github_dark)](https://github.com/snehil-pandey/360Image)  
+[![color-detector](https://github-readme-stats.vercel.app/api/pin/?username=snehil-pandey&repo=color-detector&theme=github_dark&show_icons=true)](https://github.com/snehil-pandey/color-detector)  
+[![sample-projects](https://github-readme-stats.vercel.app/api/pin/?username=snehil-pandey&repo=sample-projects&theme=github_dark&show_icons=true)](https://github.com/snehil-pandey/sample-projects) 
 
 ##  🔁 Connect with me
 [![Medium](https://img.shields.io/badge/-Medium-212121?logo=medium&logoWidth=20&logoColor=white&style=for-the-badge)](https://s-pandey.medium.com/)
